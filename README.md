@@ -48,8 +48,8 @@ Projects Uploaded to GitHub
 The following projects have been uploaded to my GitHub repositories:
 
 Project	Repository Link	Description
-Starlight Cinema	https://github.com/jonasgonzales02/Starlight-Cinema	Vintage theater website
-Leonardo Portfolio	https://github.com/jonasgonzales02/Leonardo-Portfolio	Artist portfolio site
-Luminary	https://luminarywebdev.netlify.app/	Restaurant group project
+- Starlight Cinema	https://github.com/jonasgonzales02/Starlight-Cinema	Vintage theater website
+- Leonardo Portfolio	https://github.com/jonasgonzales02/Leonardo-Portfolio	Artist portfolio site
+- Luminary	https://luminarywebdev.netlify.app/	Restaurant group project
 Submitted to Canvas: [Date]
 
