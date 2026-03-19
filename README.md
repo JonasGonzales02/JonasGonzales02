@@ -8,7 +8,6 @@ I'm a web development student passionate about building clean, functional websit
 
 - **Email:** jgonz466@asu.edu
 - **LinkedIn:** [https://linkedin.com/in/jonasgonzales](https://www.linkedin.com/in/jonas-gonzales-8387852aa/)
-- **Twitter:** https://twitter.com/jonasgonzales
 - **GitHub:** https://github.com/jonasgonzales02
 
 ---
