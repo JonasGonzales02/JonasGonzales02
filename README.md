@@ -1,6 +1,6 @@
 # Hello! I'm Jonas Gonzales 👋
 
-I'm a web development student passionate about building clean, functional websites with a touch of nostalgia. I love combining simple HTML and CSS to create digital experiences that feel both modern and timeless.
+I'm a web development student passionate about building clean, functional websites with a touch of nostalgia. I love combining simple HTML and CSS to create digital experiences that feel both modern and timeless!
 
 ---
 
