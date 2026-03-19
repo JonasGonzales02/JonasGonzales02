@@ -14,7 +14,7 @@ I'm a web development student passionate about building clean, functional websit
 
 ## 🌐 Link to My Website
 
-**https://jonasgonzales.com**
+(placeholder)
 
 ---
 
