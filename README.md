@@ -24,8 +24,6 @@ I'm a web development student passionate about building clean, functional websit
 - CSS3
 - JavaScript
 - Python
-- React
-- Node.js
 
 ---
 
